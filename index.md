@@ -1,4 +1,6 @@
----
-title: Welcome to my blog
----
+<header>
+
+# title: Welcome to my blog
+
+</header>
 
